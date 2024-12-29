@@ -19,17 +19,17 @@
 
 ### 💻 **Frontend**
 <p>
+  <img src="https://img.shields.io/badge/Javascript-262626?style=for-the-badge&logo=javascript&logoColor=ffdd00">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-0070f3?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Material--UI-007fff?style=for-the-badge&logo=material-ui&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-0070f3?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Material--UI-007fff?style=for-the-badge&logo=material-ui&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-ff6600?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-007bff?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-262626?style=for-the-badge&logo=javascript&logoColor=ffdd00">
 </p>
 
 ### 🖥️ **Backend**
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ### 🛠️ **Herramientas y Tecnologías**

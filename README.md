@@ -11,7 +11,7 @@
 
 🌱 **Aprendiendo:**
 - MERN Stack
-- Tecnologías en la nube (AWS, Firebase).
+- Tecnologías en la nube (AWS, Docker).
 
 ---
 
